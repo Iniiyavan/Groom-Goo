@@ -1,7 +1,9 @@
-💈 GROOMGO  
+## 💈 GROOMGO  
 Smart Grooming Services at Your Doorstep ✨💇‍♂️  
 
-👋 About Me  
+---
+
+## 👋 About Me  
 Hi! I'm Iniyavan M 👨‍💻  
 
 🎓 B.E. Computer Science, Chettinad College of Engineering & Technology  
@@ -9,7 +11,9 @@ Hi! I'm Iniyavan M 👨‍💻
 🤖 AI Enthusiast & IoT Hobbyist  
 🚀 Passionate about building solutions that simplify lives  
 
-📝 Project Overview  
+---
+
+## 📝 Project Overview  
 GROOMGO is an intelligent web-based grooming service platform 💼.  
 It enables users to book grooming services at their doorstep with features like:  
 
@@ -19,20 +23,27 @@ It enables users to book grooming services at their doorstep with features like:
 📲 Real-time request acceptance by service providers  
 🛠️ Easy-to-use interface for both users and barbers  
 
-✨ Features  
+---
+
+## ✨ Features  
 ✅ Explore salons near your location  
 ✅ Ratings & reviews to choose best service  
 ✅ Book & pay securely online  
 ✅ Service providers accept and deliver at doorstep  
 ✅ Convenient, modern grooming experience  
 
-🛠️ Technologies Used  
+
+---
+
+## 🛠️ Technologies Used  
 Frontend: HTML, CSS, JavaScript 🎨💻  
 Backend: Node.js / PHP ⚙️  
 Database: MySQL 🗄️  
 Authentication: OTP-based login via mobile/email 🔑  
 
-🚀 How to Run  
+---
+
+## 🚀 How to Run  
 1. Clone the repository:  
    git clone https://github.com/YourUsername/GROOMGO.git
 
@@ -41,6 +52,9 @@ Authentication: OTP-based login via mobile/email 🔑
 3. Run the backend server 🖥️
 
 4. Open in browser 🌐
+
+---
+
 
 ##  🖥️ Projects
 [**Haemocross**](https://github.com/Iniiyavan/HaemoCross/blob/main/README.md)
