@@ -6,7 +6,7 @@ Smart Grooming Services at Your Doorstep ✨💇‍♂️
 ## 👋 About Me  
 Hi! I'm Iniyavan M 👨‍💻  
 
-🎓 B.E. Computer Science, Chettinad College of Engineering & Technology  
+🎓 B.E. Computer Science, Chettinad College of Engineering & Technology 
 💻 FullStack Developer | Frontend Developer | Designer  
 🤖 AI Enthusiast & IoT Hobbyist  
 🚀 Passionate about building solutions that simplify lives  
