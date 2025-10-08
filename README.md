@@ -57,9 +57,13 @@ Authentication: OTP-based login via mobile/email 🔑
 
 
 ##  🖥️ Projects
-[**Haemocross**](https://github.com/Iniiyavan/HaemoCross/blob/main/README.md)
+[**Groom Goo**](https://github.com/Iniiyavan/Groom-Goo/blob/main/README.md)
+
+[**Dream Aura**](https://github.com/Iniiyavan/Dream-Aura/blob/main/README.md)
 
 [**Gesture Control Car**](https://github.com/Iniiyavan/Gesture-Control/blob/main/README.md)
+
+[**Forest Fire Detection**](https://github.com/Iniiyavan/Forest-Fire-Detection)
 
 [**Traffic Signal Helmet Compilance**](https://github.com/Iniiyavan/Traffic-Signal-Helmet-Compilance/blob/main/README.md)
 
